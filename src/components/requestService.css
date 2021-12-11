@@ -1,0 +1,51 @@
+.requestServiceTable{
+    display: flex;
+    border-collapse: collapse;
+    flex-direction: column;
+    margin-top: 110px;
+    width: 50%;
+    align-items: left;
+    justify-content: left;
+    position: relative;
+    right: 250px;
+    text-align: left;
+    font-size: 1rem;
+}
+
+
+
+ .requestServiceTable th{
+    justify-content: left;
+    text-align: left;
+    font-size: 1rem;
+}  
+
+.requestServiceForm{
+    display: flex;
+    flex-direction: column;
+    padding: 7rem;
+    align-items: right;
+    justify-content: right;
+    position: relative;
+    right: 50px;
+    text-align: right;
+    font-size: 1rem;
+}
+
+.label{
+    display: block;
+    justify-content: right;
+    align-items: right;
+}
+
+.field{
+    padding: 12px;
+}
+
+.btns{
+    padding-top: 8rem;
+}
+
+.btn-space{
+    margin-right: 10px;
+}

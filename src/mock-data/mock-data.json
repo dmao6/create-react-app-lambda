@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "fa-laptop",
+        "Equipment": "Macbook Air 2021",
+        "AvailableQuantity": "315"
+    },
+    {
+        "c": "fa-laptop",
+        "Equipment": "Macbook Pro 2021",
+        "AvailableQuantity": "343"
+    },
+    {
+        "c": "fa-laptop",
+        "Equipment": "Dell XPS 17",
+        "AvailableQuantity": "203"
+    },
+    {
+        "c": "fa-tablet",
+        "Equipment": "iPad Pro 12, 9\"",
+        "AvailableQuantity": "59"
+    },
+    {
+        "c": "fa-camera",
+        "Equipment": "Canon EOS T7",
+        "AvailableQuantity": "45"
+    },
+    {
+        "c": "fa-laptop",
+        "Equipment": "Razor Blade 15",
+        "AvailableQuantity": "32"
+    }
+]

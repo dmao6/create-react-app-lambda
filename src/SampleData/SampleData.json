@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "ticketNumber": "INC4836403",
+        "requestedBy": "John Smith", 
+        "shortDescription": "Software Issue",
+        "assignedTo": "John Smith",
+        "priority": "4 - Low",
+        "state": "New"
+    },
+    {
+        "id": 2,
+        "ticketNumber": "INC4739463",
+        "requestedBy": "Guest", 
+        "shortDescription": "VPN Issue",
+        "assignedTo": "Jake M.",
+        "priority": "4 - Low",
+        "state": "New"
+    },
+    {
+        "id": 3,
+        "ticketNumber": "INC4849563",
+        "requestedBy": "Guest", 
+        "shortDescription": "Password Reset",
+        "assignedTo": "John Smith",
+        "priority": "4 - Low",
+        "state": "Work Started"
+    },
+    {
+        "id": 4,
+        "ticketNumber": "INC4774938",
+        "requestedBy": "Tommy Lee", 
+        "shortDescription": "Unable to login",
+        "assignedTo": "Jake M.",
+        "priority": "4 - Low",
+        "state": "Work Started"
+    },
+    {
+        "id": 5,
+        "ticketNumber": "INC4683174",
+        "requestedBy": "James Peter", 
+        "shortDescription": "Inquiry",
+        "assignedTo": "Samantha J.",
+        "priority": "4 - Low",
+        "state": "Awaiting Vender"
+    },
+    {
+        "id": 6,
+        "ticketNumber": "INC46549465",
+        "requestedBy": "James Peter", 
+        "shortDescription": "Software Issue",
+        "assignedTo": "John Smith",
+        "priority": "4 - Low",
+        "state": "Escalated"
+    },
+    {
+        "id": 7,
+        "ticketNumber": "INC419649",
+        "requestedBy": "Terry Crews", 
+        "shortDescription": "Password",
+        "assignedTo": "Juanid I.",
+        "priority": "4 - Low",
+        "state": "Escalated"
+    },
+    {
+        "id": 8,
+        "ticketNumber": "INC4593642",
+        "requestedBy": "Matthew Jeffs", 
+        "shortDescription": "Laptop Issue",
+        "assignedTo": "Ali Rehman",
+        "priority": "4 - Low",
+        "state": "New"
+    },
+    {
+        "id": 9,
+        "ticketNumber": "INC4774932",
+        "requestedBy": "Kobe Bryant", 
+        "shortDescription": "Email Issue",
+        "assignedTo": "Jake M.",
+        "priority": "4 - Low",
+        "state": "Work Started"
+    },
+    {
+        "id": 10,
+        "ticketNumber": "INC4574057",
+        "requestedBy": "Muhammad S.", 
+        "shortDescription": "Inquiry",
+        "assignedTo": "Ali Rehman",
+        "priority": "4 - Low",
+        "state": "Pending Customer"
+    }
+]

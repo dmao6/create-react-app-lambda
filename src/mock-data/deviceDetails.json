@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1111111",
+        "Equipment": "Macbook Air 2021",
+        "Category": "Laptop",
+        "AvailableQuantity": "315"
+    },
+    {
+        "id": "1111112",
+        "Equipment": "Macbook Pro 2021",
+        "Category": "Laptop",
+        "AvailableQuantity": "343"
+    },
+    {
+        "id": "1111113",
+        "Equipment": "Dell XPS 17",
+        "Category": "Laptop",
+        "AvailableQuantity": "203"
+    },
+    {
+        "id": "1111114",
+        "Equipment": "iPad Pro 12, 9\"",
+        "Category": "Laptop",
+        "AvailableQuantity": "59"
+    },
+    {
+        "id": "1111115",
+        "Equipment": "Canon EOS T7",
+        "Category": "Laptop",
+        "AvailableQuantity": "45"
+    },
+    {
+        "id": "1111116",
+        "Equipment": "Razor Blade 15",
+        "Category": "Laptop",
+        "AvailableQuantity": "32"
+    }
+]
